@@ -16,3 +16,6 @@ Aqui mostrarei além do meu conhecimento e aplicações práticas, as minhas dor
 
 ### Network Devices
 This knowledge will be the foundation which we will build upon, during the rest of this course.
+We will cover all these network symbols, functions and how they work together to make network:
+
+![ndp](network-devices.png)
