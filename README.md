@@ -28,7 +28,49 @@ A computer network is a system made up of two or more interconnected devices tha
 - Imagine someone is trying to steal or harm a company, what will protect them? A firewall. A Firewall are specialty security network devices that control network traffic entering and exiting a network. Firewalls can be placed outside of your router or inside a network. What is important is they protect the endpoints inside the network, like PCs and servers. They must be configured with security rules to determine which network traffic should be allowed and which should be denied. There are host-based firewall also, which are software that protect only the host-machine. Another important concept is a next-generation firewall, which combines traditional firewall features with more advanced filtering functionalities.
 
 ## Day One | Packet Tracer Introduction
- Cisco Packet Tracer are a network simulation tool, this virtual environment lab allows you to practice networking, IoT and cybersecurity.
+Cisco Packet Tracer are a network simulation tool, this virtual environment lab allows you to practice networking, IoT and cybersecurity.
+
+There are four type of files in packet tracer:
+
+.pkt	This file is created when a simulated network is built and saved. It does not include an instructions window or activity scoring.
+.pkz	This is a deprecated file type that was used to embed images and other files within a Packet Tracer file.
+.pka	This file type contains a Packet Tracer activity along with an instruction window, which guides users through the necessary processes to complete the activity.
+.pksz	This file type bundles an initial network, an answer network, media assets, and a scripting file for hints.
+
+## Day two | Jeremy's IT lab | CCNA 200-301
+
+### Interfaces and Cables
+
+One characteristics about a switch is that they have a lot of interfaces, or ports.
+A switch have RJ-45 (Registered Jack) interfaces that receive RJ-45 copper cables, the RJ-45 connector is used on the end of a copper Ethernet cable. 
+
+But... What is Ethernet?
+
+Ethernet is a collection of network protocols and standards, rather than just a single protocol.
+
+But... What are network protocols, Erick?
+
+Imagine there is one person who speaks English and another who speaks Japanese. They can't communicate with each other. They need a standard way to communicate between them, and network protocols work the same way. Imagine different devices with ports that can't connect to a switch. That is why the industry has standards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
 
