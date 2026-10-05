@@ -16,8 +16,7 @@ Aqui mostrarei além do meu conhecimento e aplicações práticas, as minhas dor
 This knowledge will be the foundation which we will build upon, during the rest of this course.
 We will cover all these network symbols, functions and how they work together to make network:
 
-![ndp](network-devices.png)
-
+![ndp2](Assets/スクリーンショット_20261006_031630.png)
 A computer network is a system made up of two or more interconnected devices that share data or resources between them. These networks can be connected via physical means (copper wire, fiber optic cable) or via wireless technology (radio or Wi-Fi) using standard rules called communication protocols (TCP/IP).
 
 - Endpoint / End hosts is a devices can be a client or a server.
@@ -56,9 +55,23 @@ Imagine there is one person who speaks English and another who speaks Japanese. 
 Connections between devices in a network operate at a set speed. **This** speed is measured in bits per second. A bit is represented by **0 or 1**. **Bytes are** represented by eight zeros or ones. Now imagine **an internet connection over copper wires**, where your PC is connected to the router. Internet speed is measured **in bits, not bytes** such as **1 megabit or 2 gigabits**. One **bit** is interpreted **at a time**
 
 #### Ethernet Standards
+These were defined by IEEE (Institute of Electrical and Electronics Engineers) 802.3 standard in 1983 
+![ndp2](Assets/スクリーンショット_20261006_031117.png)
 
+### UTP Cables
+The ethernet copper cables used in ethernet cables is UTP cables. UTP mean unshielded Twisted pair. Unshielded mean that the wires don't have metallic shield, which can make them vulnerable to electric interference. They are twisted because it protects against EMI (Electromagnetic Interference).
+They can be twisted with two pairs and four pairs (Each pair have two cables) to plug into  .
+So...
+10 BASE-T 
+            = 2 pairs (4 wires)
+100 BASE-T 
 
+1000 BASE-T
+           = 4 pairs (8 wires)
+10G BASE-T
 
+How the pin works?
+Each RJ-45 have 8 pin, these pins have different purposes.
 
 
 
