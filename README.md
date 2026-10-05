@@ -16,7 +16,7 @@ Aqui mostrarei além do meu conhecimento e aplicações práticas, as minhas dor
 This knowledge will be the foundation which we will build upon, during the rest of this course.
 We will cover all these network symbols, functions and how they work together to make network:
 
-![ndp2](Assets/スクリーンショット_20261006_031630.png)
+![png1](Assets/スクリーンショット_20261006_031630.png)
 A computer network is a system made up of two or more interconnected devices that share data or resources between them. These networks can be connected via physical means (copper wire, fiber optic cable) or via wireless technology (radio or Wi-Fi) using standard rules called communication protocols (TCP/IP).
 
 - Endpoint / End hosts is a devices can be a client or a server.
@@ -56,7 +56,7 @@ Connections between devices in a network operate at a set speed. **This** speed 
 
 #### Ethernet Standards
 These were defined by IEEE (Institute of Electrical and Electronics Engineers) 802.3 standard in 1983 
-![ndp2](Assets/スクリーンショット_20261006_031117.png)
+![png2](Assets/スクリーンショット_20261006_031117.png)
 
 ### UTP Cables
 The ethernet copper cables used in ethernet cables is UTP cables. UTP mean unshielded Twisted pair. Unshielded mean that the wires don't have metallic shield, which can make them vulnerable to electric interference. They are twisted because it protects against EMI (Electromagnetic Interference).
@@ -73,13 +73,25 @@ So...
 How the pin works?
 Each RJ-45 have 8 pin, these pins have different purposes.
 
-![ndp3](Assets/UTP_Cables_10base-t_100base-t.png)
+![png3](Assets/UTP_Cables_10base-t_100base-t.png)
 
 In a 10/100 Mbps connection between a PC (or Router) and a Switch, pins 1 and 2 on the PC/Router side transmit data (Tx), while pins 1 and 2 on the Switch side receive it (Rx). On the second pair, pins 3 and 6 on the Switch side transmit data (Tx), and pins 3 and 6 on the PC/Router side receive it (Rx). Because transmission and reception happen on separate wire pairs, this operates in Full-Duplex mode, avoiding data collisions.
 This is called straight-Trough cable.
 
 If we want to connect a switch to a switch, or a router to another router, or two PCs, we need to use a Crossover cable. 
 
+![png4](Assets/Crossover_Cable.png)
+
+In a crossover cable, the data in transmitted in the pin one and two and is received in the pin tree and six. Then is reversed, the data is transmitted (tx) in the pin one and two and is received (rx) in the pin tree and six.
+
+But in the modern days, companies prefer Auto MDI-X.
+
+### Auto MDI-X
+
+With Auto MDI-X you do not need to worry with the pins because they auto regulate which pin it will use. So if there are two switches, the pin one and two can transmit data and pin one and two can receive the data. Tree and six can transmit the data and tree and six can receive the data also.
+
+# 1000 BASE-T and 10G BASE-T
+These type of ethernet is bidirectional, which mean pin one can send data and at the other side, pin one can also receive the data. And the eight wires is used.
 
 
 
