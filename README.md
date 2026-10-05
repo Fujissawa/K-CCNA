@@ -73,6 +73,14 @@ So...
 How the pin works?
 Each RJ-45 have 8 pin, these pins have different purposes.
 
+![ndp3](Assets/UTP_Cables_10base-t_100base-t.png)
+
+In a 10/100 Mbps connection between a PC (or Router) and a Switch, pins 1 and 2 on the PC/Router side transmit data (Tx), while pins 1 and 2 on the Switch side receive it (Rx). On the second pair, pins 3 and 6 on the Switch side transmit data (Tx), and pins 3 and 6 on the PC/Router side receive it (Rx). Because transmission and reception happen on separate wire pairs, this operates in Full-Duplex mode, avoiding data collisions.
+This is called straight-Trough cable.
+
+If we want to connect a switch to a switch, or a router to another router, or two PCs, we need to use a Crossover cable. 
+
+
 
 
 
