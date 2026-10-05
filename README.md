@@ -39,7 +39,7 @@ There are four type of files in packet tracer:
 
 ## Day two | Jeremy's IT lab | CCNA 200-301
 
-### Interfaces and Cables
+#### Interfaces and Cables
 
 One characteristics about a switch is that they have a lot of interfaces, or ports.
 A switch have RJ-45 (Registered Jack) interfaces that receive RJ-45 copper cables, the RJ-45 connector is used on the end of a copper Ethernet cable. 
@@ -52,6 +52,14 @@ But... What are network protocols, Erick?
 
 Imagine there is one person who speaks English and another who speaks Japanese. They can't communicate with each other. They need a standard way to communicate between them, and network protocols work the same way. Imagine different devices with ports that can't connect to a switch. That is why the industry has standards.
 
+#### Bits and bytes
+Connections between devices in a network operate at a set speed. **This** speed is measured in bits per second. A bit is represented by **0 or 1**. **Bytes are** represented by eight zeros or ones. Now imagine **an internet connection over copper wires**, where your PC is connected to the router. Internet speed is measured **in bits, not bytes** such as **1 megabit or 2 gigabits**. One **bit** is interpreted **at a time**
+
+#### Ethernet Standards
+
+
+
+
 
 
 
@@ -72,5 +80,29 @@ Imagine there is one person who speaks English and another who speaks Japanese. 
 
 
  
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
