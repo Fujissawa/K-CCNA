@@ -112,6 +112,9 @@ The single-mode core fiber glass is narrower than the multi-mode and the light e
 
 Check the fiber-optic IEE Standards:
 
+![png8](Assets/Fiber-Optic-IEE-Standars.png)
+
+
 
 
 
