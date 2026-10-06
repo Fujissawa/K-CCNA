@@ -108,8 +108,9 @@ The multi-mode cable, have wider core diameter than single-mode fiver, allowing 
 
 The single-mode core fiber glass is narrower than the multi-mode and the light enters at a single angle (mode) from a laser-based transmitter. Single mode fiber cables are longer than the multi-mode ones and more expensive also.
 
+![png7](Assets/Single-Mode_&_Multi-Mode.png)
 
-
+Check the fiber-optic IEE Standards:
 
 
 
