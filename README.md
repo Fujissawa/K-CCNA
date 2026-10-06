@@ -86,12 +86,21 @@ In a crossover cable, the data in transmitted in the pin one and two and is rece
 
 But in the modern days, companies prefer Auto MDI-X.
 
-### Auto MDI-X
-
+#### Auto MDI-X
 With Auto MDI-X you do not need to worry with the pins because they auto regulate which pin it will use. So if there are two switches, the pin one and two can transmit data and pin one and two can receive the data. Tree and six can transmit the data and tree and six can receive the data also.
 
-# 1000 BASE-T and 10G BASE-T
+#### 1000 BASE-T and 10G BASE-T
 These type of ethernet is bidirectional, which mean pin one can send data and at the other side, pin one can also receive the data. And the eight wires is used.
+
+#### Fiber-Optic Connections
+Fiber-Optic is superior in many ways and be used for large connections. If you remember, copper UTP wire connections are used in 100 meters only, good for LAN connections.
+
+As you remember, in a Cisco Switch there are twenty four ports for RJ-45 connectors, but there are also four interfaces for SFP (Small Form-Factor Pluggable) transceiver. These SFP transceivers accept fiber-optic cable. They send data not through electrical signals, but through light over glass fibers, yes,**light**. It looks like magic, isn't?
+At the cable end, there is two connectors. That is because one connector transmit data and the another receive. It is pretty simple.
+
+Let's take a look at the fiber-optic structure:
+
+![png6](fiber-optic.png)
 
 
 
