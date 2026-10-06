@@ -100,7 +100,14 @@ At the cable end, there is two connectors. That is because one connector transmi
 
 Let's take a look at the fiber-optic structure:
 
-![png6](fiber-optic.png)
+![png6](Assets/Fiber_Optic.png)
+
+Single-mode and multi-mode are two type of fiber-optic cables.
+
+The multi-mode cable, have wider core diameter than single-mode fiver, allowing the light to reflect in different angles (modes) inside the fiberglass core. The cables are longer than the UTP, but they still lose to single-mode fiber. It is cheaper than single mode, due to the LED-based SFP transmitters.
+
+The single-mode core fiber glass is narrower than the multi-mode and the light enters at a single angle (mode) from a laser-based transmitter. Single mode fiber cables are longer than the multi-mode ones and more expensive also.
+
 
 
 
@@ -122,7 +129,6 @@ Let's take a look at the fiber-optic structure:
 
 
  
-
 
 
 
