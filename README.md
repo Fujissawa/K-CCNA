@@ -82,7 +82,7 @@ If we want to connect a switch to a switch, or a router to another router, or tw
 
 ![png4](Assets/Crossover_Cable.png)
 
-In a crossover cable, the data in transmitted in the pin one and two and is received in the pin tree and six. Then is reversed, the data is transmitted (tx) in the pin one and two and is received (rx) in the pin tree and six.
+In a crossover cable, the data in transmitted in the pin one and two and is received in the pin tree and six. Then at the other side is reversed, the data is transmitted (tx) in the pin one and two and is received (rx) in the pin tree and six.
 
 But in the modern days, companies prefer Auto MDI-X.
 
@@ -114,8 +114,18 @@ Check the fiber-optic IEE Standards:
 
 ![png8](Assets/Fiber-Optic-IEE-Standars.png)
 
+## Day Three | Jeremy's IT Lab | CCNA 200 - 301
 
+Now it will be presented Internet Protocol Suite. These protocols is a set of rules defining how data should be communicated between devices over a network. Protocols are  the languages that computers use to communicate.
+In the early days of networking, protocols were typically proprietary and developed by individual vendors (such as IBM) to work exclusively with their own hardware. To allow devices from different vendors to communicate, modern protocol standards were established through government research initiatives, key internet pioneers, and independent standards organizations.
 
+#### Who defines the standards?
+
+Most network standards are developed by independent standards organizations, not by a single vendor, with participation from engineers at many companies.
+The main ones is IEEE (Institute of Electrical and Electronics Engineers) and IETF (Internet Engineering Task Force), an open community that defines protocols used on the internet (TCP, IP, UDP, HTTP, DNS, etc.)
+
+### Layered 
+ 
 
 
 
